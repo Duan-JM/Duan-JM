@@ -1,4 +1,4 @@
-### My name is Sayak Paul! 👾
+### My name is Duan-JM! 👾
 
 - 🔭 I’m going to work at Alibaba on Algorithm Engineer.
 - 🌱 I’m interested in the area of few-shot learning or Inductive Learning.
